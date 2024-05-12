@@ -1,5 +1,5 @@
 
-# Employee Management System
+# Employee Management System 👨🏻‍💼
 
 Welcome to the Employee Management System! 👩🏻‍💼
 
@@ -26,3 +26,16 @@ To get started with the Employee Management System, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine.
 2. **Open in Visual Studio**: Open the project in Visual Studio.
 3. **Run the Application**: Build and run the application to start managing your employees!
+
+ ## Screenshots
+
+<p align="center">
+  <img src="e1.PNG" width="400" alt="img">
+  <img src="e2.PNG" width="400" alt="img">
+   <img src="e4.PNG" width="400" alt="img">
+  <img src="e5.PNG" width="400" alt="img">
+</p>
+<p align="center">
+  <img src="e3.PNG" width="400" alt="img">
+</p>
+
