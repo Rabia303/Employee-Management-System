@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\employee management system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|c:\\users\\hp\\source\\repos\\employee management system\\employee management system\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\employee management system\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\employee management system\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\employee management system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\employee management system\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\employee management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\employee management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\employee management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\employee management system\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7153082-6D39-4268-961C-4162D8DF1879}|EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj|solutionrelative:employee management system\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EMPLOYEE MANAGEMENT SYSTEM||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "home.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\home.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\home.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\home.cs",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\home.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-18T00:22:05.52Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\employee.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\employee.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\employee.cs",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\employee.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T00:31:15.092Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "view.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\view.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\view.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\view.cs",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\view.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-18T00:30:48.985Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "salary.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\salary.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\salary.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\salary.cs",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\salary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T03:39:42.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "salary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\salary.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\salary.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\salary.cs [Design]",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-18T03:25:09.825Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "view.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\view.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\view.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\view.cs [Design]",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\view.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-18T00:21:51.736Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\home.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\home.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\home.cs [Design]",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-18T00:21:48.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\Form1.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\Form1.cs [Design]",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-18T00:21:37.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\employee.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\employee.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\employee.cs [Design]",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T00:21:57.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\home.Designer.cs",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\home.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\home.Designer.cs",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\home.Designer.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAArwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-01-18T02:56:45.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EMPLOYEE MANAGEMENT SYSTEM",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj",
+              "RelativeDocumentMoniker": "EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj",
+              "RelativeToolTip": "EMPLOYEE MANAGEMENT SYSTEM\\EMPLOYEE MANAGEMENT SYSTEM.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-18T02:53:23.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
