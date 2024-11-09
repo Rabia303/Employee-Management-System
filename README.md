@@ -1,11 +1,11 @@
 
-# Employee Management System 👨🏻‍💼
+# Employee Management System - Desktop Application made using C# and SQL 👨🏻‍💼
 
-Welcome to the Employee Management System! 👩🏻‍💼
+Welcome to the Employee Management System!
 
 ## Overview
 
-The Employee Management System is a fun and functional project built with SQL database 💾 and C# in Visual Studio 🖥️. It's designed to help you manage your employees and their salaries 💼 with ease.
+The Employee Management System is a fun and functional project built with SQL database and C# in Visual Studio . It's designed to help you manage your employees and their salaries with ease.
 
 ## Technologies
 
@@ -27,8 +27,5 @@ To get started with the Employee Management System, follow these steps:
 2. **Open in Visual Studio**: Open the project in Visual Studio.
 3. **Run the Application**: Build and run the application to start managing your employees!
 
-</p>
-<p align="center">
-  <img src="e3.PNG" width="400" alt="img">
 </p>
 
